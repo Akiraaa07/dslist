@@ -1,4 +1,5 @@
 # DSList
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Akiraaa07/dslist/blob/main/LICENSE)
 
 ##  Sobre o projeto
 O **DSList** é uma aplicação **back-end** desenvolvida durante o **Intensivão Java Spring** promovido pela [DevSuperior](https://devsuperior.com.br/).  
